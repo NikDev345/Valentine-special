@@ -14,13 +14,6 @@ Built with **React + Vite**, driven by **state**, powered by **chaos**.
 </div>
 
 ---
-
-## 🎬 Live Preview
-
-<p align="center">
-  <img src="./preview.gif" width="320" />
-</p>
-
 > ⚠️ **Warning**: The “No” button does not cooperate.
 
 ---
@@ -102,4 +95,4 @@ If this made you smile —
 
 ---
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&pause=900&color=FF54A4&center=true&vCenter=true&width=500&lines=Built+with+React;Powered+by+Love+%F0%9F%92%95;The+answer+was+always+Yes" /> </div> ```
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&pause=900&color=FF54A4&center=true&vCenter=true&width=500&lines=Built+with+React;Powered+by+Love+%F0%9F%92%95;The+answer+was+always+Yes" /> </div>
