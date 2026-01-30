@@ -57,7 +57,7 @@ User clicks "Yes"
 
 # 🚀 Installation
 ```text
-git clone https://github.com/your-username/do-you-love-me.git
+git clone https://github.com/NikDev345/Valentine-Special.git
 cd do-you-love-me
 npm install
 npm run dev
