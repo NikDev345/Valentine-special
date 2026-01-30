@@ -62,9 +62,20 @@ cd do-you-love-me
 npm install
 npm run dev
 ```
+Open → http://localhost:5173
 
 ---
 
+# 🎯 Key Features
 
+🏃‍♂️ “No” button that runs away
 
-Open → http://localhost:5173
+💓 Animated heart loader
+
+🎥 Video-based reactions
+
+🧠 Clean React logic (no DOM hacks)
+
+📱 Works on desktop & mobile
+
+---
