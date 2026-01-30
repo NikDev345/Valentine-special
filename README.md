@@ -52,3 +52,19 @@ User clicks "Yes"
 🎨 CSS Animations – heart loader magic
 
 🎥 MP4 Assets – smooth visual feedback
+
+---
+
+# 🚀 Installation
+```text
+git clone https://github.com/your-username/do-you-love-me.git
+cd do-you-love-me
+npm install
+npm run dev
+```
+
+---
+
+
+
+Open → http://localhost:5173
