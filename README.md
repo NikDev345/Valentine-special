@@ -79,3 +79,27 @@ Open → http://localhost:5173
 📱 Works on desktop & mobile
 
 ---
+
+# 🛠 Customization Ideas
+
+🔊 Add sound effects
+
+🎉 Confetti on “Yes”
+
+📱 Touch-based dodge logic
+
+🧠 Auto-Yes after 10 tries
+
+💌 Personalize the message
+
+❤️ Why This Project Exists
+
+Sometimes code doesn’t need to solve a problem.
+Sometimes it just needs to make someone smile.
+
+If this made you smile —
+⭐ Star the repo.
+
+---
+
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&pause=900&color=FF54A4&center=true&vCenter=true&width=500&lines=Built+with+React;Powered+by+Love+%F0%9F%92%95;The+answer+was+always+Yes" /> </div> ```
