@@ -39,3 +39,16 @@ User clicks "Yes"
 ❤️ Heart Loader
        ↓
 💘 Love Confirmed
+```
+---
+
+# ⚛️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,vite,css,js" /> </p>
+
+⚛️ React – state-driven UI
+
+⚡ Vite – lightning-fast dev server
+
+🎨 CSS Animations – heart loader magic
+
+🎥 MP4 Assets – smooth visual feedback
